@@ -150,7 +150,8 @@ h1, h2, h3 {
 }
 
 .oficina {
-    padding-block: 32px;
+    padding-top: 32px;
+    padding-bottom: 32px;
     border-top: 3px solid var(--tinta);
     display: flex;
     align-items: center;
@@ -180,7 +181,8 @@ h1, h2, h3 {
 
 .etiqueta {
     background-color: var(--branco);
-    padding: 4px 12px;
+    padding-top: 4px 4px;
+    padding-left: 12px;
     font-size: 14px;
     font-weight: 600;
 }
